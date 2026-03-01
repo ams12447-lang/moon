@@ -1,20 +1,11 @@
-body {
-
-    /*background:papayaWhip*/
-    background: LightSteelBlue;
-    font-family: Comic-sans, Arial, Helvetica, sans-serif;
+body{background:#ffd9d9;
+color:white;
 }
-
-div.side-by-side {
-    display: flex;
+h6{
+    font-size:30px;
+      font-family:caveatbold; 
 }
-
-img {
-    width: 59%;
-    max-width: 500px;
-}
-
-.featureBlock {
-    background-color:pink;
-    font-size: smaller;
+section{background:#ffd9d9;
+color:white;
+font-family:roman, 'times new roman', times, serif;
 }
