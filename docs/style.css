@@ -9,3 +9,19 @@ section{background:#ffd9d9;
 color:white;
 font-family:roman, 'times new roman', times, serif;
 }
+Div.flex{display:flex; width:90%}
+ing.speed{width:90%; width:600px;}
+ing.special:hover{transform:scale(1.5)}
+iframe{color:#00FFFF}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px; 
+  background:white;
+  color:#00ffff;
+}
