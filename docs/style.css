@@ -1,18 +1,18 @@
-body{background:#ffd9d9;
-color:white;
+body{background:black;
+color:gold;
+border:900px;
 }
 h6{
     font-size:30px;
       font-family:caveatbold; 
 }
-section{background:#ffd9d9;
-color:white;
-font-family:roman, 'times new roman', times, serif;
+nav{color:gold;}
+section{font-family:roman, 'times new roman', times, serif;
 }
 Div.flex{display:flex; width:90%}
 ing.speed{width:90%; width:600px;}
 ing.special:hover{transform:scale(1.5)}
-iframe{color:#00FFFF}
+iframe{color:gold;}
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
